@@ -280,6 +280,8 @@
 
 ![](timesup.gif)
 
+^ We try to automate everything, but theres always a cost.
+
 ^ That's a lot of data (potentially):
 
 ^	- Most of which probably isn't relevant
@@ -370,8 +372,8 @@ $ diffy --target-key api-v001 --accountNumber 1234567890 --region us-east-1
   - https://github.com/Netflix-Skunkworks/diffy
 - Techblog 
   - https://medium.com/netflix-techblog
-- Presentation Notes (actual content!) 
-  - 
+- Presentation	 Notes (actual content!) 
+  - https://github.com/kevgliss/diffy-presentation 
 
 ![right scale 100%](proof.png)
 
